@@ -46,6 +46,7 @@ namespace maridoces
             btn_cancelar = new Button();
             btn_adicionar = new Button();
             btn_fechar = new Button();
+            txt_URLimagem = new TextBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -125,10 +126,10 @@ namespace maridoces
             // 
             // pictureBox1
             // 
-            pictureBox1.BackColor = Color.LightSalmon;
+            pictureBox1.BackColor = Color.PapayaWhip;
             pictureBox1.Location = new Point(88, 53);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(329, 218);
+            pictureBox1.Size = new Size(321, 161);
             pictureBox1.TabIndex = 7;
             pictureBox1.TabStop = false;
             // 
@@ -172,7 +173,6 @@ namespace maridoces
             cbx_categoria.Name = "cbx_categoria";
             cbx_categoria.Size = new Size(137, 23);
             cbx_categoria.TabIndex = 11;
-            cbx_categoria.SelectedIndexChanged += cbx_categoria_SelectedIndexChanged;
             // 
             // cbx_sabor
             // 
@@ -181,7 +181,6 @@ namespace maridoces
             cbx_sabor.Name = "cbx_sabor";
             cbx_sabor.Size = new Size(137, 23);
             cbx_sabor.TabIndex = 12;
-            cbx_sabor.SelectedIndexChanged += cbx_sabor_SelectedIndexChanged;
             // 
             // btn_imagem
             // 
@@ -191,7 +190,7 @@ namespace maridoces
             btn_imagem.FlatAppearance.MouseDownBackColor = Color.FromArgb(255, 128, 0);
             btn_imagem.FlatAppearance.MouseOverBackColor = Color.FromArgb(255, 224, 192);
             btn_imagem.Font = new Font("Bahnschrift SemiBold", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btn_imagem.Location = new Point(312, 277);
+            btn_imagem.Location = new Point(304, 249);
             btn_imagem.Name = "btn_imagem";
             btn_imagem.Size = new Size(105, 24);
             btn_imagem.TabIndex = 13;
@@ -240,12 +239,21 @@ namespace maridoces
             btn_fechar.UseVisualStyleBackColor = true;
             btn_fechar.Click += btn_fechar_Click;
             // 
+            // txt_URLimagem
+            // 
+            txt_URLimagem.BackColor = SystemColors.Info;
+            txt_URLimagem.Location = new Point(88, 220);
+            txt_URLimagem.Name = "txt_URLimagem";
+            txt_URLimagem.Size = new Size(321, 23);
+            txt_URLimagem.TabIndex = 17;
+            // 
             // NovoProduto
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.PeachPuff;
+            BackColor = Color.Sienna;
             ClientSize = new Size(488, 725);
+            Controls.Add(txt_URLimagem);
             Controls.Add(btn_fechar);
             Controls.Add(btn_adicionar);
             Controls.Add(btn_cancelar);
@@ -293,6 +301,7 @@ namespace maridoces
         private Button btn_cancelar;
         private Button btn_adicionar;
         private Button btn_fechar;
+        private TextBox txt_URLimagem;
 
         public EventHandler txt_nomeProduto_TextChanged { get; private set; }
         public EventHandler rtb_descricaoProduto_TextChanged { get; private set; }

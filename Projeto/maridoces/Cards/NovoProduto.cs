@@ -32,17 +32,6 @@ namespace maridoces
             this.Close();
         }
 
-        private void cbx_categoria_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void cbx_sabor_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-
-        }
-
         private void btn_salvar_Click(object sender, EventArgs e)
         {
 
@@ -58,6 +47,11 @@ namespace maridoces
         private void btn_fechar_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void btn_imagem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
