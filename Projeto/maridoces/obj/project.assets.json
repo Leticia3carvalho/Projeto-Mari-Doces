@@ -1608,23 +1608,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\felipe.solima\\.nuget\\packages\\": {},
+    "C:\\Users\\mariana.onovaes\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felipe.solima\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\maridoces.csproj",
+      "projectUniqueName": "C:\\Users\\mariana.onovaes\\Downloads\\Projeto-Mari-Doces\\Projeto\\maridoces\\maridoces.csproj",
       "projectName": "maridoces",
-      "projectPath": "C:\\Users\\felipe.solima\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\maridoces.csproj",
-      "packagesPath": "C:\\Users\\felipe.solima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felipe.solima\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\obj\\",
+      "projectPath": "C:\\Users\\mariana.onovaes\\Downloads\\Projeto-Mari-Doces\\Projeto\\maridoces\\maridoces.csproj",
+      "packagesPath": "C:\\Users\\mariana.onovaes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mariana.onovaes\\Downloads\\Projeto-Mari-Doces\\Projeto\\maridoces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\felipe.solima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mariana.onovaes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
