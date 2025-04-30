@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("maridoces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0340a868db9f9a8c58bee0e41c53bf23b0d7a3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("maridoces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("maridoces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

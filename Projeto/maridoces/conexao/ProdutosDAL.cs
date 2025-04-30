@@ -77,7 +77,7 @@ namespace maridoces.conexao
             // String que recebera a consulta realizada pelo usuario
             string query = $"" +
                 $"SELECT tb_produtos.*, tb_categorias.nome_categoria FROM tb_produtos " +
-                $"INNER JOIN tb_categorias ON tb_produtos.id_categoria = tb_categorias.id_categoria;";
+                $"INNER JOIN tb_categorias ON tb_produtos.id_categoria = tb_categorias.id_categoria ORDER BY id_produto;";
 
             // Adaptador de rede do MySQL para realizar a conexão ao banco de dados
             MySqlDataAdapter dataAdapter = new MySqlDataAdapter(query, minhaConexao.Start());
@@ -138,7 +138,7 @@ namespace maridoces.conexao
         {
             Conexao minhaConexao = new Conexao();
 
-            string query = $"DELETE FROM tb_produto WHERE id = {ID};";
+            string query = $"DELETE FROM tb_produtos WHERE id_produto = {ID};";
 
             MySqlCommand mySqlCommand = new MySqlCommand(query, minhaConexao.Start());
 
@@ -166,7 +166,7 @@ namespace maridoces.conexao
                 $"'{produto.descricao}' " +
                 $"'{produto.valor}'" +
                 $"{produto.id_categoria}'" +
-                $"'{produto.id_sabor}')$;";
+                $"'{produto.id_sabor}');";
 
             MySqlCommand mySqlCommand = new MySqlCommand(query, minhaConexao.Start());
 

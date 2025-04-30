@@ -1,49 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\",
+  "WorkspaceRootPath": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\leticia.csrosa\\downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\cards\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\cards\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\leticia.csrosa\\downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\cards\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\cards\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\leticia.csrosa\\downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\conexao\\produtosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\leticia.csrosa\\desktop\\projeto-mari-doces\\projeto\\maridoces\\conexao\\produtosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\conexao\\produtosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\leticia.csrosa\\downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\cards\\novoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\leticia.csrosa\\desktop\\projeto-mari-doces\\projeto\\maridoces\\cards\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\cards\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\leticia.csrosa\\desktop\\projeto-mari-doces\\projeto\\maridoces\\cards\\novoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\cards\\novoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\cards\\novoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\cards\\novoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\cards\\novoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\leticia.csrosa\\downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\componentes\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\componentes\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\leticia.csrosa\\desktop\\projeto-mari-doces\\projeto\\maridoces\\cards\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\cards\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\leticia.csrosa\\downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\leticia.csrosa\\downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\conexao\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\conexao\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\leticia.csrosa\\downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\leticia.csrosa\\downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\dtos\\saboresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\leticia.csrosa\\desktop\\projeto-mari-doces\\projeto\\maridoces\\dtos\\saboresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\dtos\\saboresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\leticia.csrosa\\desktop\\projeto-mari-doces\\projeto\\maridoces\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\leticia.csrosa\\desktop\\projeto-mari-doces\\projeto\\maridoces\\componentes\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\componentes\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\leticia.csrosa\\desktop\\projeto-mari-doces\\projeto\\maridoces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -54,45 +50,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\Form1.cs",
               "RelativeDocumentMoniker": "maridoces\\Form1.cs",
-              "ToolTip": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\Form1.cs [Projeto]",
+              "ToolTip": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\Form1.cs [Projeto]",
               "RelativeToolTip": "maridoces\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T18:09:56.891Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\Form1.cs",
               "RelativeDocumentMoniker": "maridoces\\Form1.cs",
-              "ToolTip": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\Form1.cs",
+              "ToolTip": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\Form1.cs",
               "RelativeToolTip": "maridoces\\Form1.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAmwBoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wDAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T03:20:14.883Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "controle.cs",
-              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\componentes\\controle.cs",
+              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\componentes\\controle.cs",
               "RelativeDocumentMoniker": "maridoces\\componentes\\controle.cs",
-              "ToolTip": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\componentes\\controle.cs",
+              "ToolTip": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\componentes\\controle.cs",
               "RelativeToolTip": "maridoces\\componentes\\controle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T20:01:54.658Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -100,11 +99,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Administrador.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\Cards\\Administrador.cs",
+              "DocumentIndex": 1,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\Cards\\Administrador.cs",
               "RelativeDocumentMoniker": "maridoces\\Cards\\Administrador.cs",
-              "ToolTip": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\Cards\\Administrador.cs [Projeto]",
+              "ToolTip": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\Cards\\Administrador.cs",
+              "RelativeToolTip": "maridoces\\Cards\\Administrador.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwC4AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:20:08.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NovoProduto.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\Cards\\NovoProduto.cs",
+              "RelativeDocumentMoniker": "maridoces\\Cards\\NovoProduto.cs",
+              "ToolTip": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\Cards\\NovoProduto.cs [Projeto]",
+              "RelativeToolTip": "maridoces\\Cards\\NovoProduto.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:18:48.868Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NovoProduto.cs",
+              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\Cards\\NovoProduto.cs",
+              "RelativeDocumentMoniker": "maridoces\\Cards\\NovoProduto.cs",
+              "ToolTip": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\Cards\\NovoProduto.cs",
+              "RelativeToolTip": "maridoces\\Cards\\NovoProduto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:18:57.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutosDAL.cs",
+              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\conexao\\ProdutosDAL.cs",
+              "RelativeDocumentMoniker": "maridoces\\conexao\\ProdutosDAL.cs",
+              "ToolTip": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\conexao\\ProdutosDAL.cs",
+              "RelativeToolTip": "maridoces\\conexao\\ProdutosDAL.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAIwE8AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:24:11.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Administrador.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\Cards\\Administrador.cs",
+              "RelativeDocumentMoniker": "maridoces\\Cards\\Administrador.cs",
+              "ToolTip": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\Cards\\Administrador.cs [Projeto]",
               "RelativeToolTip": "maridoces\\Cards\\Administrador.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T20:25:48.268Z",
@@ -112,87 +162,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Administrador.cs",
-              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\Cards\\Administrador.cs",
-              "RelativeDocumentMoniker": "maridoces\\Cards\\Administrador.cs",
-              "ToolTip": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\Cards\\Administrador.cs",
-              "RelativeToolTip": "maridoces\\Cards\\Administrador.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwB8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "SaboresDTO.cs",
+              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\DTOs\\SaboresDTO.cs",
+              "RelativeDocumentMoniker": "maridoces\\DTOs\\SaboresDTO.cs",
+              "ToolTip": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\DTOs\\SaboresDTO.cs",
+              "RelativeToolTip": "maridoces\\DTOs\\SaboresDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T20:20:08.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoriaDAL.cs",
-              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\conexao\\CategoriaDAL.cs",
-              "RelativeDocumentMoniker": "maridoces\\conexao\\CategoriaDAL.cs",
-              "ToolTip": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\conexao\\CategoriaDAL.cs",
-              "RelativeToolTip": "maridoces\\conexao\\CategoriaDAL.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:42:07.277Z"
+              "WhenOpened": "2025-04-28T19:35:47.23Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "CategoriaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\DTOs\\CategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\DTOs\\CategoriaDTO.cs",
               "RelativeDocumentMoniker": "maridoces\\DTOs\\CategoriaDTO.cs",
-              "ToolTip": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\DTOs\\CategoriaDTO.cs",
+              "ToolTip": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\DTOs\\CategoriaDTO.cs",
               "RelativeToolTip": "maridoces\\DTOs\\CategoriaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:35:48.306Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SaboresDTO.cs",
-              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\DTOs\\SaboresDTO.cs",
-              "RelativeDocumentMoniker": "maridoces\\DTOs\\SaboresDTO.cs",
-              "ToolTip": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\DTOs\\SaboresDTO.cs",
-              "RelativeToolTip": "maridoces\\DTOs\\SaboresDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:35:47.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProdutosDAL.cs",
-              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\conexao\\ProdutosDAL.cs",
-              "RelativeDocumentMoniker": "maridoces\\conexao\\ProdutosDAL.cs",
-              "ToolTip": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\conexao\\ProdutosDAL.cs",
-              "RelativeToolTip": "maridoces\\conexao\\ProdutosDAL.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAqwKgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:24:11.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NovoProduto.cs",
-              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\Cards\\NovoProduto.cs",
-              "RelativeDocumentMoniker": "maridoces\\Cards\\NovoProduto.cs",
-              "ToolTip": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\Cards\\NovoProduto.cs",
-              "RelativeToolTip": "maridoces\\Cards\\NovoProduto.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAqwDsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:18:57.586Z",
+              "WhenOpened": "2025-04-28T19:35:48.306Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NovoProduto.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\Cards\\NovoProduto.cs",
-              "RelativeDocumentMoniker": "maridoces\\Cards\\NovoProduto.cs",
-              "ToolTip": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\Cards\\NovoProduto.cs [Projeto]",
-              "RelativeToolTip": "maridoces\\Cards\\NovoProduto.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:18:48.868Z"
             }
           ]
         }

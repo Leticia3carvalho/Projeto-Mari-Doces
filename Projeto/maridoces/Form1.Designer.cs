@@ -174,6 +174,7 @@
             card_bebidas.nome_Card = "Bebidas";
             card_bebidas.Size = new Size(160, 62);
             card_bebidas.TabIndex = 8;
+            card_bebidas.Click += card_bebidas_Click;
             // 
             // card_promocao
             // 

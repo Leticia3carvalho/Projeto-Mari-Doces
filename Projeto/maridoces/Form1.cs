@@ -55,36 +55,46 @@ namespace maridoces
         {
             pnl_centro.Controls.Clear();
             lbl_principal.Text = "Brigadeiros";
-            controledois controle2 = new controledois();
-            pnl_centro.Controls.Add(controle2);
-            controle2.Dock = DockStyle.Fill;
+            controle controle = new controle(4);
+            pnl_centro.Controls.Add(controle);
+            controle.Dock = DockStyle.Fill;
         }
 
         private void card_trufas_Click(object sender, EventArgs e)
         {
             pnl_centro.Controls.Clear();
             lbl_principal.Text = "Trufas";
-            controledois controle2 = new controledois();
-            pnl_centro.Controls.Add(controle2);
-            controle2.Dock = DockStyle.Fill;
+            controle controle = new controle(5);
+            pnl_centro.Controls.Add(controle);
+            controle.Dock = DockStyle.Fill;
         }
 
         private void card_brownies_Click(object sender, EventArgs e)
         {
             pnl_centro.Controls.Clear();
             lbl_principal.Text = "Brownies";
-            controledois controle2 = new controledois();
-            pnl_centro.Controls.Add(controle2);
-            controle2.Dock = DockStyle.Fill;
+            controle controle = new controle(6);
+            pnl_centro.Controls.Add(controle);
+            controle.Dock = DockStyle.Fill;
         }
 
         private void card_paodemel_Click(object sender, EventArgs e)
         {
             pnl_centro.Controls.Clear();
             lbl_principal.Text = "Pão de mel";
-            controledois controle2 = new controledois();
-            pnl_centro.Controls.Add(controle2);
-            controle2.Dock = DockStyle.Fill;
+            controle controle = new controle(7);
+            pnl_centro.Controls.Add(controle);
+            controle.Dock = DockStyle.Fill;
+        }
+
+        private void card_bebidas_Click(object sender, EventArgs e)
+        {
+            pnl_centro.Controls.Clear();
+            lbl_principal.Text = "Bebidas";
+
+            controle controle = new controle(8);
+            pnl_centro.Controls.Add(controle);
+            controle.Dock = DockStyle.Fill;
         }
 
         ////////////////////////// felipe >
@@ -97,5 +107,6 @@ namespace maridoces
             pnl_centro.Controls.Add(controleADM);
             controleADM.Dock = DockStyle.Fill;
         }
+
     }
 }

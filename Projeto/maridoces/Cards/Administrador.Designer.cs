@@ -32,6 +32,8 @@
             btn_NovoProduto = new Button();
             lbl_adm = new Label();
             panel1 = new Panel();
+            btn_excluir = new Button();
+            btn_editar = new Button();
             dgv_centraladm = new DataGridView();
             pnl_centroadm = new Panel();
             panel1.SuspendLayout();
@@ -47,7 +49,7 @@
             btn_atualizar.FlatAppearance.MouseOverBackColor = Color.Red;
             btn_atualizar.FlatStyle = FlatStyle.Popup;
             btn_atualizar.Font = new Font("Bahnschrift SemiBold", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btn_atualizar.Location = new Point(543, 23);
+            btn_atualizar.Location = new Point(553, 23);
             btn_atualizar.Name = "btn_atualizar";
             btn_atualizar.Size = new Size(70, 23);
             btn_atualizar.TabIndex = 1;
@@ -83,6 +85,8 @@
             // 
             // panel1
             // 
+            panel1.Controls.Add(btn_excluir);
+            panel1.Controls.Add(btn_editar);
             panel1.Controls.Add(btn_atualizar);
             panel1.Controls.Add(btn_NovoProduto);
             panel1.Dock = DockStyle.Top;
@@ -90,6 +94,38 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(783, 68);
             panel1.TabIndex = 4;
+            // 
+            // btn_excluir
+            // 
+            btn_excluir.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            btn_excluir.BackColor = SystemColors.Info;
+            btn_excluir.FlatAppearance.MouseDownBackColor = Color.Tan;
+            btn_excluir.FlatAppearance.MouseOverBackColor = Color.Red;
+            btn_excluir.FlatStyle = FlatStyle.Popup;
+            btn_excluir.Font = new Font("Bahnschrift SemiBold", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btn_excluir.Location = new Point(477, 23);
+            btn_excluir.Name = "btn_excluir";
+            btn_excluir.Size = new Size(70, 23);
+            btn_excluir.TabIndex = 4;
+            btn_excluir.Text = "Excluir";
+            btn_excluir.UseVisualStyleBackColor = false;
+            btn_excluir.Click += btn_excluir_Click;
+            // 
+            // btn_editar
+            // 
+            btn_editar.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            btn_editar.BackColor = SystemColors.Info;
+            btn_editar.FlatAppearance.MouseDownBackColor = Color.Tan;
+            btn_editar.FlatAppearance.MouseOverBackColor = Color.Red;
+            btn_editar.FlatStyle = FlatStyle.Popup;
+            btn_editar.Font = new Font("Bahnschrift SemiBold", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btn_editar.Location = new Point(401, 23);
+            btn_editar.Name = "btn_editar";
+            btn_editar.Size = new Size(70, 23);
+            btn_editar.TabIndex = 3;
+            btn_editar.Text = "Editar";
+            btn_editar.UseVisualStyleBackColor = false;
+            btn_editar.Click += btn_editar_Click;
             // 
             // dgv_centraladm
             // 
@@ -139,5 +175,7 @@
         private Panel panel1;
         private DataGridView dgv_centraladm;
         private Panel pnl_centroadm;
+        private Button btn_excluir;
+        private Button btn_editar;
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2vRXe9k2R94=",
+  "dgSpecHash": "nbf0eeYfTJk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\leticia.csrosa\\Downloads\\maridoces 4\\maridoces\\maridoces\\maridoces\\maridoces.csproj",
+  "projectFilePath": "C:\\Users\\leticia.csrosa\\Desktop\\Projeto-Mari-Doces\\Projeto\\maridoces\\maridoces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leticia.csrosa\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\leticia.csrosa\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

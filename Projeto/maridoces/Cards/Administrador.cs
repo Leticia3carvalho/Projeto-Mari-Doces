@@ -30,5 +30,28 @@ namespace maridoces
         {
             dgv_centraladm.DataSource = ProdutosDAL.ListarTodosOsProdutosDataTable();
         }
+
+        private void btn_excluir_Click(object sender, EventArgs e)
+        {
+            if (dgv_centraladm.SelectedRows.Count == 0)
+            {
+                DialogResult escolha = MessageBox.Show(
+                    "Deseja excluir",
+                    "a",
+                    MessageBoxButtons.YesNo,
+                    MessageBoxIcon.Question
+                );
+
+                if (escolha == DialogResult.Yes)
+                {
+                    ProdutosDAL.DeletarProduto(Convert.ToInt32(dgv_centraladm.CurrentRow.Cells["id_produto"].Value));
+                }
+            }
+        }
+
+        private void btn_editar_Click(object sender, EventArgs e)
+        {
+            //dgv_centraladm.DataSourse = ProdutosDAL.Editar
+        }
     }
 }

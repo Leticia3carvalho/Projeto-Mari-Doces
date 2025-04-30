@@ -45,14 +45,7 @@ namespace maridoces
 
         private void btn_salvar_Click(object sender, EventArgs e)
         {
-
-
-
-
-
-
-
-            txt_nomeProduto.Text = "";
+            
         }
 
         private void btn_fechar_Click(object sender, EventArgs e)
